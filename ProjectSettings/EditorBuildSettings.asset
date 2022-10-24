@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HouseVR.unity
+    guid: e73fc3689e03c4e0f82b30ee135fd77b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9bd68820d7d4d4d31a09f6c0d3972f6c, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4cc0b311918534965914162487259e67, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 69429877d345c4163b133f5b72b091ae, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9a3152add95be49c78fdde80f36b598c, type: 2}
