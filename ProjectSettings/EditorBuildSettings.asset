@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/HouseVR.unity
     guid: e73fc3689e03c4e0f82b30ee135fd77b
+  - enabled: 1
+    path: Assets/Scenes/OculusHouse.unity
+    guid: 695a7012b50f047a8833cb9c0630efbf
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9bd68820d7d4d4d31a09f6c0d3972f6c, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4cc0b311918534965914162487259e67, type: 2}
