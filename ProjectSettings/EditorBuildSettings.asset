@@ -6,14 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/HouseVR.unity
-    guid: e73fc3689e03c4e0f82b30ee135fd77b
-  - enabled: 0
-    path: Assets/Scenes/OculusHouse.unity
-    guid: 695a7012b50f047a8833cb9c0630efbf
+    path: Assets/Samples/XR Interaction Toolkit/2.2.0/Starter Assets/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
   - enabled: 1
-    path: Assets/Scenes/Start.unity
-    guid: 9ec8caf7732744998935c069ced48d4f
+    path: Assets/Scenes/OculusHouseInteraction.unity
+    guid: 212f88d4b7dc841569f99a2fa05c285d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9bd68820d7d4d4d31a09f6c0d3972f6c, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4cc0b311918534965914162487259e67, type: 2}
