@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/OculusHouseInteraction.unity
+    path: Assets/Housing/Working Scene/OculusHouseInteraction.unity
     guid: 212f88d4b7dc841569f99a2fa05c285d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9bd68820d7d4d4d31a09f6c0d3972f6c, type: 2}
