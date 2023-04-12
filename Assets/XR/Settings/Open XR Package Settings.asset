@@ -161,6 +161,26 @@ MonoBehaviour:
   features: []
   m_renderMode: 1
   m_depthSubmissionMode: 0
+--- !u!114 &-1342170867478679918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96efa89124dda0941802f28ad8249b87, type: 3}
+  m_Name: MockDriver Standalone
+  m_EditorClassIdentifier: 
+  m_enabled: 0
+  nameUi: Mock Driver
+  version: 0.0.1
+  featureIdInternal: com.unity.openxr.feature.mockdriver
+  openxrExtensionStrings: XR_UNITY_mock_driver
+  company: Unity
+  priority: 0
+  required: 0
 --- !u!114 &-1138906686281815663
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -541,6 +561,7 @@ MonoBehaviour:
   - {fileID: 1033413017115670127}
   - {fileID: 4457277016706508467}
   - {fileID: -2120463021304181289}
+  - {fileID: -1342170867478679918}
   - {fileID: -2713567076847769521}
   - {fileID: 2037911890096514082}
   - {fileID: 62295649866105561}
