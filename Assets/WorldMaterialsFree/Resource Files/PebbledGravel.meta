@@ -1,8 +1,14 @@
 fileFormatVersion: 2
 guid: 36767ccb053a7c945a618e66a70f36a7
 folderAsset: yes
+<<<<<<< HEAD
 DefaultImporter:
   externalObjects: {}
+=======
+timeCreated: 1558490458
+licenseType: Store
+DefaultImporter:
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
   userData: 
   assetBundleName: 
   assetBundleVariant: 

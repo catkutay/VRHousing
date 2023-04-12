@@ -27,8 +27,12 @@ PluginImporter:
       Standalone: OSXUniversal
     second:
       enabled: 1
+<<<<<<< HEAD
       settings:
         CPU: AnyCPU
+=======
+      settings: {}
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
   userData: 
   assetBundleName: 
   assetBundleVariant: 

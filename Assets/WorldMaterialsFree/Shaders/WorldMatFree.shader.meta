@@ -3,8 +3,11 @@ guid: 02f9653e969ec11459c0ebb367b07cb8
 ShaderImporter:
   externalObjects: {}
   defaultTextures: []
+<<<<<<< HEAD
   nonModifiableTextures: []
   preprocessorOverride: 0
+=======
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
   userData: 
   assetBundleName: 
   assetBundleVariant: 

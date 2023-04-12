@@ -1,9 +1,15 @@
 fileFormatVersion: 2
 guid: 38462e489520adb45a64da1bbb4046a1
 TextureImporter:
+<<<<<<< HEAD
   internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
+=======
+  fileIDToRecycleName: {}
+  externalObjects: {}
+  serializedVersion: 4
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
@@ -21,10 +27,13 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+<<<<<<< HEAD
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
   ignoreMasterTextureLimit: 0
+=======
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -33,12 +42,21 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<< HEAD
     filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 0
     wrapV: 0
     wrapW: 0
+=======
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
   nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
@@ -55,6 +73,7 @@ TextureImporter:
   spriteTessellationDetail: -1
   textureType: 0
   textureShape: 1
+<<<<<<< HEAD
   singleChannelComponent: 0
   flipbookRows: 1
   flipbookColumns: 1
@@ -67,6 +86,13 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
+=======
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -76,6 +102,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+<<<<<<< HEAD
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
@@ -125,11 +152,14 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
   spriteSheet:
     serializedVersion: 2
     sprites: []
     outline: []
     physicsShape: []
+<<<<<<< HEAD
     bones: []
     spriteID: 
     internalID: 0
@@ -142,6 +172,9 @@ TextureImporter:
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
+=======
+  spritePackingTag: 
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
   userData: 
   assetBundleName: 
   assetBundleVariant: 

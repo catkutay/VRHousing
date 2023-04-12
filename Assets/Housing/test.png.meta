@@ -7,7 +7,11 @@ TextureImporter:
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+<<<<<<< HEAD
     sRGBTexture: 1
+=======
+    sRGBTexture: 0
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -34,7 +38,11 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 1
+<<<<<<< HEAD
     aniso: 1
+=======
+    aniso: 4
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
     mipBias: 0
     wrapU: 0
     wrapV: 0
@@ -50,10 +58,17 @@ TextureImporter:
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
+<<<<<<< HEAD
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 0
+=======
+  alphaUsage: 0
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1

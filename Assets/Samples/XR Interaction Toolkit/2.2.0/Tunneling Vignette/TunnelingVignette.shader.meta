@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fileFormatVersion: 2
 guid: 57a6ee90d63926849add7351e0648a36
 ShaderImporter:
@@ -8,3 +9,15 @@ ShaderImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+fileFormatVersion: 2
+guid: 57a6ee90d63926849add7351e0648a36
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> 47c3ac123ad674a35df290e0d78575bb6ab4f802
