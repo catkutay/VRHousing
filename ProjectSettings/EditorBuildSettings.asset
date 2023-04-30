@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/OculusHouseInteraction.unity
-    guid: 212f88d4b7dc841569f99a2fa05c285d
+    guid: 559abdf6a259c46489899a6d9c08aa07
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9bd68820d7d4d4d31a09f6c0d3972f6c, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4cc0b311918534965914162487259e67, type: 2}
