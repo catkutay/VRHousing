@@ -8,9 +8,9 @@ public class PrimaryButtonEvent : UnityEvent<bool> { }
 
 public class PrimaryButtonWatcher : MonoBehaviour
 {
-    //public GameObject UISample;
+    public GameObject UISample;
     public PrimaryButtonEvent primaryButtonPress;
-   // bool active;
+    bool active;
     private bool lastButtonState = false;
     private List<InputDevice> devicesWithPrimaryButton;
 
@@ -20,7 +20,7 @@ public class PrimaryButtonWatcher : MonoBehaviour
         {
             primaryButtonPress = new PrimaryButtonEvent();
         }
-       // active=false;
+       active=false;
         devicesWithPrimaryButton = new List<InputDevice>();
     }
 
@@ -72,8 +72,8 @@ public class PrimaryButtonWatcher : MonoBehaviour
         {
             primaryButtonPress.Invoke(tempState);
             lastButtonState = tempState;
-           // active=!active;
-          //  UISample.setActive(active);
+            active=!active;
+           UISample.SetActive(active);
         }
         
     }
