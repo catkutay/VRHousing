@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Assets/Resources.meta
 fileFormatVersion: 2
 guid: d2701604abc7c42f0a617ffdd57ce2b5
 folderAsset: yes
@@ -6,3 +7,13 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+fileFormatVersion: 2
+guid: 12b3ed547e9b67745b2e8eebb01655c3
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> 2644ef251d9430803f6bbe18d1c456ad0c024acb:Assets/ArkioUnityPlugin/Runtime/Resources.meta
